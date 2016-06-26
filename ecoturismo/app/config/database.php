@@ -62,17 +62,7 @@ return array(
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
 		),
-/*
-		'mysql' => array(
-			'driver'    => 'mysql',
-			'host'      => '200.55.240.51',
-			'database'  => 'admin_laravel',
-			'username'  => 'fran',
-			'password'  => 'FranLakes2016',
-			'charset'   => 'utf8',
-			'collation' => 'utf8_unicode_ci',
-			'prefix'    => '',
-		),*/
+
 		'pgsql' => array(
 			'driver'   => 'pgsql',
 			'host'     => 'localhost',
